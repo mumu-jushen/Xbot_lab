@@ -1,5 +1,5 @@
 ---
-title: 实验室项目主页
+title: Xbot具身智能社区
 layout: default
 ---
 
@@ -41,6 +41,14 @@ img {
 - 系统性培养具身智能所需的软硬件能力  
 - 融合机械臂、四足机器人、灵巧手等核心平台  
 - 建设共享知识库 + 学习社群 + 项目制学习流程
+---
+
+## 📸 联系方式
+- 公众号：
+<img src="assets/images/weixin.jpg" width="40%">
+
+- 微信：
+<img src="assets/images/Xbot.JPEG" width="40%">
 
 ---
 ## 🎥 具身智能综述视频（Bilibili）
@@ -68,13 +76,7 @@ img {
 <img src="assets/images/lab1.jpg" width="40%">
 <img src="assets/images/lab2.jpg" width="40%">
 
----
 
-## 📸 联系方式
-- 公众号：
-<img src="assets/images/weixin.jpg" width="40%">
-- 微信：
-<img src="assets/images/Xbot.JPEG" width="40%">
 
 ---
 
