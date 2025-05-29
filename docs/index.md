@@ -25,23 +25,41 @@ img {
 }
 </style>
 
-# 🧠 实验室重点项目展示页
+# 🧠 Xbot具身智能社区重点项目展示页
 
-欢迎访问我们实验室的项目主页！我们专注于**具身智能系统研究与教育实训平台开发**，目前有以下几个重点项目：
+欢迎访问我们Xbot具身智能社区的主页！我们专注于**具身智能知识传播与社区建设**，目前有以下几个重点项目：
 
 <div class="navbar">
-  <a href="embodied-education.md">具身教育</a>
-  <a href="practical-courses.md">实训课程</a>
-  <a href="manipulator.md">机械臂</a>
-  <a href="quadruped.md">四足机器人</a>
-  <a href="dexterous-hand.md">灵巧手</a>
+  <a href="embodied-education.md">Xbot具身知识库</a>
+  <a href="manipulator.md">Xbot机械臂</a>
+  <a href="quadruped.md">Xbot四足机器人</a>
+  <a href="dexterous-hand.md">Xbot灵巧手</a>
 </div>
 
+## 🚀 实训基地目标
+
+- 系统性培养具身智能所需的软硬件能力  
+- 融合机械臂、四足机器人、灵巧手等核心平台  
+- 建设共享知识库 + 学习社群 + 项目制学习流程
+
 ---
+## 🎥 具身智能综述视频（Bilibili）
 
-## 🎥 展示视频（Bilibili）
+<iframe src="https://www.bilibili.com/video/BV1mfbMeiE7W/" scrolling="no" frameborder="no" allowfullscreen="true" width="100%" height="450"></iframe>
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1xM4y1Z7Xn&autoplay=0" scrolling="no" frameborder="no" allowfullscreen="true" width="100%" height="450"></iframe>
+## 🎥 具身智能学习路线视频（Bilibili）
+
+<iframe src="https://www.bilibili.com/video/BV1D3VhzpEsb/" scrolling="no" frameborder="no" allowfullscreen="true" width="100%" height="450"></iframe>
+
+<iframe src="https://www.bilibili.com/video/BV12FjzzCECb/" scrolling="no" frameborder="no" allowfullscreen="true" width="100%" height="450"></iframe>
+
+<iframe src="https://www.bilibili.com/video/BV1D3VhzpEye/" scrolling="no" frameborder="no" allowfullscreen="true" width="100%" height="450"></iframe>
+
+<iframe src="https://www.bilibili.com/video/BV1QajzzQETc/" scrolling="no" frameborder="no" allowfullscreen="true" width="100%" height="450"></iframe>
+
+<iframe src="https://www.bilibili.com/video/BV12FjzzCECb/" scrolling="no" frameborder="no" allowfullscreen="true" width="100%" height="450"></iframe>
+
+<iframe src="https://www.bilibili.com/video/BV1TFjzzyEAM/" scrolling="no" frameborder="no" allowfullscreen="true" width="100%" height="450"></iframe>
 
 ---
 
@@ -49,6 +67,14 @@ img {
 
 <img src="assets/images/lab1.jpg" width="40%">
 <img src="assets/images/lab2.jpg" width="40%">
+
+---
+
+## 📸 联系方式
+- 公众号：
+<img src="assets/images/weixin.jpg" width="40%">
+- 微信：
+<img src="assets/images/Xbot.JPEG" width="40%">
 
 ---
 
